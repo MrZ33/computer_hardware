@@ -1,0 +1,101 @@
+body
+{
+      margin: 0;
+      font-family: 'Titillium Web';
+}
+
+hr
+{
+      width: 76%;
+      margin-top: 20px;
+      color: rgb(240, 240, 240);
+}
+
+#apeul
+{
+      font-family: 'Titillium Web';
+      font-size: 1.7em;
+      font-weight: bold;
+      background-color: white;
+      padding: 0 0 0 0;
+      align-items: center;
+      display: inline-block;
+      color: #202020;
+      vertical-align: middle;
+
+}
+
+nav
+{
+      font-family: 'Titillium Web';
+      font-size: 1.1em;
+      font-weight: normal;
+      height: 50px;
+      padding: 0;
+      overflow: hidden;
+      width: 75%;
+      margin: auto;
+}
+
+nav a
+{
+      color: #000000;
+      text-decoration: none;
+      padding: 0 2em 0 2em;
+      display: inline-block;
+      vertical-align: middle;
+}
+
+h1
+{
+      text-align: center;
+      font-weight: 500;
+      margin-top: 70px;
+      font-size: 3em;
+}
+
+h2
+{
+      font-weight: normal;
+      background-color: blue;
+      margin: 0 auto;
+      display: inline-block;
+      vertical-align: middle;
+      align-items: center;
+}
+
+iframe
+{
+      display: inline-block;
+      display: inline-block;
+      vertical-align: middle;
+      align-items: center;
+}
+
+.productimg
+{
+      width: 50%;
+      margin-left: auto;
+      margin-right: auto;
+      display: block;
+      margin-top: 50px;
+      margin-bottom: 50px;
+}
+
+article
+{
+      margin: 0 250px 100px 250px;
+      text-align: justify;
+}
+
+
+footer
+{
+      width: 100%;
+      height: auto;
+      text-align: center;
+      font-family: 'Titillium Web';
+      font-size: 1em;
+      bottom: 0;
+      left: 0;
+}
